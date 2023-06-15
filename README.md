@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/abdelrhmannasr"><img src="https://api.daily.dev/devcards/8d7dc33ee3e245b0b2eebb3e4ae48b99.png?r=je3" width="350" alt="Abd El-Rhman Nasr's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/abdelrhmannasr"><img src="https://github.com/backendAnonymous/backendAnonymous/devcard.svg" width="350" alt="Abd El-Rhman Nasr's Dev Card" align="right"/></a>
 
 <h3 align="center">
   Welcome to Abdelrhman Nasr's profile!
