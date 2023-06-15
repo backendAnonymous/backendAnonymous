@@ -13,6 +13,8 @@
 
 - 💬 Ask me about my experience with JavaScript and SASS, or anything related to web development.
 
+<a href="https://app.daily.dev/abdelrhmannasr"><img src="https://api.daily.dev/devcards/8d7dc33ee3e245b0b2eebb3e4ae48b99.png?r=je3" width="400" alt="Abd El-Rhman Nasr's Dev Card"/></a>
+
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/abd-el-rhman-nasr-3b9304232" target="_blank"><img src="https://img.shields.io/badge/-Abdelrhman%20Nasr-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
