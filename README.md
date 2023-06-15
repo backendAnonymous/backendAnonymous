@@ -1,5 +1,4 @@
-
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<a href="https://app.daily.dev/abdelrhmannasr"><img src="https://api.daily.dev/devcards/8d7dc33ee3e245b0b2eebb3e4ae48b99.png?r=je3" width="350" alt="Abd El-Rhman Nasr's Dev Card" align="right"/></a>
 
 <h3 align="center">
   Welcome to Abdelrhman Nasr's profile!
@@ -13,7 +12,6 @@
 
 - 💬 Ask me about my experience with JavaScript and SASS, or anything related to web development.
 
-<a href="https://app.daily.dev/abdelrhmannasr"><img src="https://api.daily.dev/devcards/8d7dc33ee3e245b0b2eebb3e4ae48b99.png?r=je3" width="400" alt="Abd El-Rhman Nasr's Dev Card"/></a>
 
 ### Connect with Me :
 
@@ -28,9 +26,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=backendAnonymous&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=backendAnonymous&theme=github_dark" width="25%" alt="backendAnonymous" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=backendAnonymous&theme=github_dark"  width="25%" alt="backendAnonymous" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=backendAnonymous&theme=github_dark"  width="25%" alt="backendAnonymous" />
+</p>
 <a href="https://komarev.com/ghpvc/?username=backendAnonymous&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=backendAnonymous&style=for-the-badge">
 </a>
